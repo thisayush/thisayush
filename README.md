@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @thisayush
-- 👀 I’m interested in Product Development and Management
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Healthcare based Application
+- 👀 I’m interested in Data Science and Analytics
 - 📫 I'm available at this.ayushkr@gmail.com
 
 <!---
